@@ -33,6 +33,7 @@ permalink: /:title/
 paginate: 10
 paginate_path: /page:num/
 timezone: Asia/Seoul
+future: true
 
 # Plugins
 plugins:
